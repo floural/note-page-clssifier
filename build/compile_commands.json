@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/floral/projects/NoteAR/build",
+  "command": "/usr/bin/c++  -isystem /usr/local/include/opencv4 -g -o CMakeFiles/NoteAR.dir/src/main.cpp.o -c /home/floral/projects/NoteAR/src/main.cpp",
+  "file": "/home/floral/projects/NoteAR/src/main.cpp"
+},
+{
+  "directory": "/home/floral/projects/NoteAR/build",
+  "command": "/usr/bin/c++  -isystem /usr/local/include/opencv4 -g -o CMakeFiles/NoteAR.dir/src/core/page.cpp.o -c /home/floral/projects/NoteAR/src/core/page.cpp",
+  "file": "/home/floral/projects/NoteAR/src/core/page.cpp"
+},
+{
+  "directory": "/home/floral/projects/NoteAR/build",
+  "command": "/usr/bin/c++  -isystem /usr/local/include/opencv4 -g -o CMakeFiles/NoteAR.dir/src/core/features.cpp.o -c /home/floral/projects/NoteAR/src/core/features.cpp",
+  "file": "/home/floral/projects/NoteAR/src/core/features.cpp"
+},
+{
+  "directory": "/home/floral/projects/NoteAR/build",
+  "command": "/usr/bin/c++  -isystem /usr/local/include/opencv4 -g -o CMakeFiles/NoteAR.dir/src/utils/helpers.cpp.o -c /home/floral/projects/NoteAR/src/utils/helpers.cpp",
+  "file": "/home/floral/projects/NoteAR/src/utils/helpers.cpp"
+}
+]
